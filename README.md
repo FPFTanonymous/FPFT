@@ -10,6 +10,7 @@ The implementation requires the following libraries.
 - mkl_dfti.h
 - ipp.h
 - ipps.h
+- fftw3.h
 
 ## Datasets
 
