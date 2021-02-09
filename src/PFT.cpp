@@ -109,7 +109,7 @@ int main()
 	OUT = (float*)mkl_malloc((M + 2) * sizeof(float), 32); 
 	int n, k, l, j;
 
-	/* Generated A */
+	/* Generate A */
 	std::srand(std::time(0));
 	for (n = 0; n != N; n++)
 	{
