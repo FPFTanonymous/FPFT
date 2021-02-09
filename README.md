@@ -1,6 +1,10 @@
 # FPFT
 
 This project is a C++ implementation of *Fast and Accurate Partial Fourier Transform for Time Series Data* (submitted to KDD21).
+The codes for [FFTW](http://www.fftw.org/index.html), 
+[MKL](https://software.intel.com/mkl), 
+[Pruned FFT](http://www.fftw.org/pruned.html), and
+[Goertzel](https://github.com/pramasoul/jrand/blob/master/goertzel.c) are also included in `src/`.
 
 ## Prerequisites
 
