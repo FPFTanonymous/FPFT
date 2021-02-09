@@ -4,6 +4,15 @@ This project is a C++ implementation of *Fast and Accurate Partial Fourier Trans
 
 ## Prerequisites
 
+The implementation requires the following libraries.
+
+- mkl.h
+- mkl_dfti.h
+- ipp.h
+- ipps.h
+
 ## Datasets
+
+
 
 ## Usage
