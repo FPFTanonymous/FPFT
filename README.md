@@ -1,4 +1,4 @@
-# FPFT
+# Fast and Accurate Partial Fourier Transform
 
 This project is a C++ implementation of *Fast and Accurate Partial Fourier Transform for Time Series Data* (submitted to KDD21).
 The codes for [FFTW](http://www.fftw.org/index.html), 
