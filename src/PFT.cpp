@@ -1,4 +1,15 @@
-﻿//#include "pch.h"
+/*****************************************************************************
+*    This is an implementation of Fast and Accurate                          *
+*    Partial Fourier Transform for Time Series Data (submitted to KDD21)     *
+*                                                                            *
+*    Note that this code example is specifically designed for                *
+*    real-valued input with a target range centered at zero                  *
+*    for the best performance. A slight modification should remove           *
+*    the constraint; please refer to the original paper for more details.    * 
+*                                                                            *
+*    https://github.com/FPFTanonymous/FPFT                                   *
+*****************************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "mkl.h"
