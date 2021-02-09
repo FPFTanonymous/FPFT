@@ -129,7 +129,7 @@ int main()
 	for (j = 0; j != r; j++)
 		for (l = 0; l != q; l++)
 		{
-			B[q * j + l] = (float)(W[j] * pow(-2.0 * (l - (q / 2.0)) * (1.0 / q), j)); // 파이 제거
+			B[q * j + l] = (float)(W[j] * pow(-2.0 * (l - (q / 2.0)) * (1.0 / q), j));
 		}
 
 	/* Precompute D */
