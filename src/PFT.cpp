@@ -7,6 +7,8 @@
 *    for the best performance. A slight modification should remove           *
 *    the constraint; please refer to the original paper for more details.    * 
 *                                                                            *
+*    This code also contains the implementation of MKL DFTI.                 *
+*                                                                            *
 *    https://github.com/FPFTanonymous/FPFT                                   *
 *****************************************************************************/
 
