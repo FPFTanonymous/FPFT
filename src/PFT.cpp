@@ -34,7 +34,7 @@ int main()
 	int M = 131072;
 	int p = 65536;
 	string error = "e-7";
-
+	// One of e-1, e-2, e-3, e-4, e-5, e-6, e-7 is allowed
 
 	int num_D = ceil(M * (1.0 / p));
 	int q = N / p;
